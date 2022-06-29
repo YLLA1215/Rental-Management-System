@@ -1,4 +1,4 @@
-# Rental-management-system
+# Rental management system
 
 这是一个租房的管理系统。
 系统中包含了“租客登记”、“查看/更新房间信息”、“查看/更新租客信息”、“每月房租计算”、“租客退房”等功能。
